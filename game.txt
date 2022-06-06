@@ -4,3 +4,5 @@ readln
 masssive____22
 HELLO MY LITTLE       
 privet
+kak dela
+
