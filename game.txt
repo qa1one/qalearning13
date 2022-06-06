@@ -3,3 +3,4 @@ writeln
 readln
 masssive____22
 HELLO MY LITTLE       
+privetos
