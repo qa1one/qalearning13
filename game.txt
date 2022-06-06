@@ -1,4 +1,4 @@
-var ab
+var ab, fasfsf112332
 writeln
 readln
 masssive____22
